@@ -1,4 +1,4 @@
-FROM badmuts/development:ubuntu-nginx-php5
+FROM badmuts/development:ubuntu-php5-nginx
 MAINTAINER Daan Rosbergen <d.rosbergen@gmail.com>
 
 # Configure timezone
